@@ -1,8 +1,13 @@
-### Hi there 👋
+Hello there 👋
+===========
+My name is Jakub and I currently study Computer Science and Intelligent Systems 💻🧠
+---
+#### I work at :
+- AGH Code Industry, where we make games 🎮🎮🎮
+- Zwolnieni z Teorii, where we help young people change world around them 🌍✨
 
 
-
-
+![](/gifs/shina-dog-jump.gif)
 <!--
 **qualv13/qualv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
