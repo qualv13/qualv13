@@ -10,10 +10,10 @@ My name is Jakub and I currently study Computer Science and Intelligent Systems 
 
 🔭 I’m currently working on game named "Student Trainer" <br>
 🐶 I love dogs<br>
-<img src="https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif"
+[<img src="https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif"
     width="150" height="150"
     alt="Dancing Shiba"
-    href="https://youtu.be/gu3KzCWoons?si=p63jyQNZ-tFI5HoH" target="_blank">
+    ](https://youtu.be/gu3KzCWoons?si=p63jyQNZ-tFI5HoH?target=_blank)
 
 
 
