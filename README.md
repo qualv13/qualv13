@@ -1,10 +1,11 @@
-Hello there 👋
+Hello there 👋 <img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
+width="80" height="80">
 ===========
 
-My name is Jakub and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)
-<img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
-width="40" height="40">
+My name is Jakub 
 ---
+and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)
+
 
 #### I work at :
 - [AGH Code Industry](https://github.com/AGH-Code-Industry?target=_blank), where we make games 🎮🎮🎮
