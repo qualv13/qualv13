@@ -1,15 +1,15 @@
 <p align="center"> 
-  Visitor count<br>
+  See how many people saw my profile<br>
   <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
 </p>
 
-Hello there 👋 <img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
-width="80" height="80">
+Hello there 👋 
 ===========
 
 My name is Jakub 
 ---
-and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)
+and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)<img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
+width="40" height="40">
 
 
 #### I work at :
