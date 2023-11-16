@@ -2,6 +2,11 @@ Hello there 👋 <img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH
 width="80" height="80">
 ===========
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
+</p>
+
 My name is Jakub 
 ---
 and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)
