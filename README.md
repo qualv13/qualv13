@@ -1,11 +1,11 @@
-Hello there 👋 <img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
-width="80" height="80">
-===========
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
 </p>
+
+Hello there 👋 <img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
+width="80" height="80">
+===========
 
 My name is Jakub 
 ---
