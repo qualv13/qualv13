@@ -5,12 +5,12 @@ My name is Jakub and I currently study Computer Science and Intelligent Systems 
 ---
 
 #### I work at :
-- [AGH Code Industry](https://github.com/AGH-Code-Industry), where we make games 🎮🎮🎮
-- [Zwolnieni z Teorii](https://zwolnienizteorii.pl), where we help young people change world around them 🌍✨
+- [AGH Code Industry](https://github.com/AGH-Code-Industry?target=_blank), where we make games 🎮🎮🎮
+- [Zwolnieni z Teorii](https://zwolnienizteorii.pl?target=_blank), where we help young people change world around them 🌍✨
 
 🔭 I’m currently working on game named "Student Trainer" <br>
 🐶 I love dogs<br>
-![Shiba dancing](https://github.com/qualv13/qualv13/gifs/shina-dog-jump.gif)
+![Shiba dancing](https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif)
 <!--
 **qualv13/qualv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
