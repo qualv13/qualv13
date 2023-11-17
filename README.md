@@ -8,7 +8,7 @@ Hello there 👋
 
 My name is Jakub 
 ---
-and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en)<img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
+and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en?target=_blank)<img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
 width="40" height="40">
 
 
