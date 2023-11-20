@@ -16,6 +16,8 @@ width="40" height="40">
 - [AGH Code Industry](https://github.com/AGH-Code-Industry?target=_blank), where we make games 🎮🎮🎮
 - [Zwolnieni z Teorii](https://zwolnienizteorii.pl?target=_blank), where we help young people change world around them 🌍✨
 
+[My site](https://qualv13.github.io)
+
 🔭 I’m currently working on game named "Student Trainer" <br>
 🐶 I love dogs<br>
 [<img src="https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif"
