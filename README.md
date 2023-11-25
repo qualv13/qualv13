@@ -1,5 +1,5 @@
 <p align="center"> 
-  See how many people saw my profile<br>
+  See how many people saw my profile (or how many times to be exact)<br>
   <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
 </p>
 
