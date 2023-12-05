@@ -17,6 +17,8 @@ width="40" height="40">
 - [Zwolnieni z Teorii](https://zwolnienizteorii.pl?target=_blank), where we help young people change world around them 🌍✨
 
 [My site](https://qualv13.github.io)
+[Artykuł z zestawu 6 na narządzia](https://paperswithcode.com/paper/who-left-the-dogs-out-3d-animal)
+[Fork z zestawu 6 na narządzia](https://github.com/qualv13/StanfordExtra)
 
 🔭 I’m currently working on game named "Student Trainer" <br>
 🐶 I love dogs<br>
