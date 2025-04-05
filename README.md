@@ -1,27 +1,30 @@
 <p align="center"> 
-  See how many people saw my profile (or how many times to be exact)<br>
+  See how many people saw my profile<br>
   <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
 </p>
 
-Hello there 👋  [my site](https://qualv13.github.io)
+Hello there 👋  
 ===========
+**My name is Jakub**  
 
-My name is Jakub 
----
-and I currently study Computer Science and Intelligent Systems 💻🧠 at [AGH University](https://www.agh.edu.pl/en?target=_blank)<img src="https://github.com/qualv13/qualv13/blob/main/gifs/AGH_white.png"
-width="40" height="40">
+I am a highly motivated and eager-to-learn Computer Science and Intelligent Systems student 💻🧠 at [AGH UST Kraków](https://www.agh.edu.pl/en). Passionate about software development and problem-solving, I constantly strive to improve my coding skills, documentation practices, and efficiency. I thrive in team environments and am eager to gain technical experience by working with industry professionals.  
 
+#### **You can find me contributing here:**  
+- **[Student Council](https://www.facebook.com/WRSSWEAIiIB)** – Have you been to [Volt 2025?](https://www.facebook.com/events/1272722077174064/) I coordinated the event!  
+- **[Zwolnieni z Teorii](https://zwolnienizteorii.pl)** – A platform where we empower young people to change the world around them 🌍✨  
+- **[AGH Code Industry](https://github.com/AGH-Code-Industry)** (past) – A student group where we developed games 🎮🎮🎮  
 
-#### I work at :
-- [AGH Code Industry](https://github.com/AGH-Code-Industry?target=_blank), where we make games 🎮🎮🎮
-- [Zwolnieni z Teorii](https://zwolnienizteorii.pl?target=_blank), where we help young people change world around them 🌍✨
+### **I’m looking for an internship/job → DM me on [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/)**  
 
-[My site](https://qualv13.github.io)
-[Artykuł z zestawu 6 na narządzia](https://paperswithcode.com/paper/who-left-the-dogs-out-3d-animal)
-[Fork z zestawu 6 na narządzia](https://github.com/qualv13/StanfordExtra)
+[**My itch.io profile**](https://qualv13.itch.io)
 
-🔭 I’m currently working on game named "Student Trainer" <br>
-🐶 I love dogs<br>
+[**My website**](https://qualv13.github.io) *(still in progress!)*  
+
+🔭 **Currently working on** smaller projects for my portfolio  
+🌱 **Learning** Python *pandas, numpy, SKLearn*, C#, PostgreSQL, Java  
+📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/) 
+
+🐶 **I love dogs** <br>
 [<img src="https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif"
     width="150" height="150"
     alt="Dancing Shiba">
