@@ -16,7 +16,9 @@ I am a highly motivated and eager-to-learn Computer Science and Intelligent Syst
 
 ### **I’m looking for an internship/job → DM me on [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/)**  
 
+[**My Unity profile**](https://learn.unity.com/u/5e2039f0edbc2a00d6d818e0/?tab=profile)
 [**My itch.io profile**](https://qualv13.itch.io)
+
 [**My easy zombie game**](https://github.com/qualv13/ZombieGame)
 
 
