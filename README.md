@@ -22,7 +22,7 @@ I am a highly motivated and eager-to-learn Computer Science and Intelligent Syst
 [**My easy zombie game**](https://github.com/qualv13/ZombieGame)
 
 
-[**My website**](https://qualv13.github.io) *(still in progress!)*  
+[**My website**](https://kierzno.tojest.dev) *(still in progress!)*  
 
 🔭 **Currently working on** smaller projects for my portfolio  
 🌱 **Learning** Python *pandas, numpy, SKLearn*, C#, PostgreSQL, Java  
