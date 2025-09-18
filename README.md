@@ -1,7 +1,8 @@
+<!--
 <p align="center"> 
   See how many people saw my profile<br>
   <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
-</p>
+</p> -->
 
 Hello there 👋  
 ===========
