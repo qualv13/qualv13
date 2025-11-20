@@ -1,55 +1,106 @@
-<!--
-<p align="center"> 
-  See how many people saw my profile<br>
-  <img src="https://profile-counter.glitch.me/qualv13/count.svg" />
-</p> -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=100&repeat=false&color=2F81F7&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Hello+There!+%F0%9F%91%8B;My+name+is+Jakub+Kierznowski;Computer+Science+and+Intelligent+Systems+Student+at+AGH+UST" alt="Typing SVG" />
 
-Hello there 👋  
-===========
-**My name is Jakub**  
+  <p>
+    <a href="https://www.linkedin.com/in/jakub-kierznowski/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://qualv13.itch.io">
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+    </a>
+    <a href="https://kierzno.tojest.dev">
+      <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-I am a highly motivated and eager-to-learn Computer Science and Intelligent Systems student 💻🧠 at [AGH UST Kraków](https://www.agh.edu.pl/en). Passionate about software development and problem-solving, I constantly strive to improve my coding skills, documentation practices, and efficiency. I thrive in team environments and am eager to gain technical experience by working with industry professionals.  
+<hr>
 
-#### **You can find me contributing here:**  
-- **[Student Council](https://www.facebook.com/WRSSWEAIiIB)** – Have you been to [Volt 2025?](https://www.facebook.com/events/1272722077174064/) I coordinated the event!  
-- **[Zwolnieni z Teorii](https://zwolnienizteorii.pl)** – A platform where we empower young people to change the world around them 🌍✨  
-- **[AGH Code Industry](https://github.com/AGH-Code-Industry)** (past) – A student group where we developed games 🎮🎮🎮  
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a highly motivated <b>Computer Science and Intelligent Systems student</b> 💻🧠 at <a href="https://www.agh.edu.pl/en">AGH University of Kraków</a>. 
+      </p>
+      <p>
+        My academic focus includes <b>Neural Networks</b>, <b>Data Engineering</b>, and <b>Agile</b> methodologies. Passionate about software development and problem-solving, I constantly strive to improve my coding skills, documentation practices, and efficiency.
+      </p>
+       <p>
+        🔭 <b>Currently working on:</b> Portfolio projects & Automations<br>
+        💼 <b>Looking for:</b> Internship / Job opportunities
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <br>
+      <img src="https://github.com/qualv13/qualv13/raw/main/gifs/shiba-dog-jump.gif" width="180px">
+      <br><br>
+      <em>I love dogs! 🐶</em>
+    </td>
+  </tr>
+</table>
 
-### **I’m looking for an internship/job → DM me on [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/)**  
+<div align="center">
+  <h3>🛠️ Technologies & Tools</h3>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
 
-[**My Unity profile**](https://learn.unity.com/u/5e2039f0edbc2a00d6d818e0/?tab=profile)
-[**My itch.io profile**](https://qualv13.itch.io)
+<br>
 
-[**My easy zombie game**](https://github.com/qualv13/ZombieGame)
+<h3>🤝 Experience & Volunteering</h3>
 
+* ⚡ **[Student Council (WRSS)](https://wrss.eaiib.agh.edu.pl)**
+    * Coordinated [Volt 2025](https://www.facebook.com/events/1272722077174064/).
+    * Maintained the website using **Vue.js** & **TailwindCSS**.
+    * Built automations using **n8n** and Slack.
+* 🎮 **[Code Industry](https://github.com/AGH-Code-Industry)** (Past)
+    * Developed "Student-trainer" game using **Unity (C#)**.
+    * Worked in an **Agile** team environment.
+* 🌍 **[Zwolnieni z Teorii](https://zwolnienizteorii.pl)** – Team mentor (2022-2025).
+    * Platform where we empower young people to change the world around them 🌍✨  
+    * Responding to participants of Olympiad using Thulium. Managing database of schools, users and teachers.
+---
 
-[**My website**](https://kierzno.tojest.dev) *(still in progress!)*  
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <img src="https://img.shields.io/badge/Amazon-Application_Development-FF9900?style=flat-square&logo=amazon" />
+  <img src="https://img.shields.io/badge/Amazon-Data_Structures_&_Algorithms-FF9900?style=flat-square&logo=amazon" />
+  <img src="https://img.shields.io/badge/Amazon-Programming_with_Java-FF9900?style=flat-square&logo=amazon" />
+</div>
 
-🔭 **Currently working on** smaller projects for my portfolio  
-🌱 **Learning** Python *pandas, numpy, SKLearn*, C#, PostgreSQL, Java  
-📫 **Reach me on** [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/) 
+<br>
 
-🐶 **I love dogs** <br>
-[<img src="https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif"
-    width="150" height="150"
-    alt="Dancing Shiba">
-    ](https://youtu.be/gu3KzCWoons?si=p63jyQNZ-tFI5HoH?target="blank")
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=qualv13&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qualv13&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 
+<br>
 
-
-<!--![Shiba dancing](https://github.com/qualv13/qualv13/blob/main/gifs/shiba-dog-jump.gif)
--->
-<!--
-**qualv13/qualv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🚀 Check out my work</h3>
+  <a href="https://github.com/qualv13/ZombieGame"><strong>🧟‍♂️ Zombie Game (Java)</strong></a>
+  •
+  <a href="https://fit2beat.toadres.pl"><strong>🎵 Playlist Maker (Docker + Python)</strong></a>
+  •
+  <a href="https://github.com/qualv13/Flask-Assets_value_database_with_NBP_API"><strong>📈 NBP Asset App (Flask)</strong></a>
+</div>
