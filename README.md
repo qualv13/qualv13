@@ -34,7 +34,7 @@
     </td>
     <td width="35%" align="center">
       <br>
-      <img src="https://github.com/qualv13/qualv13/raw/main/gifs/shiba-dog-jump.gif" width="180px">
+      <img src="https://github.com/qualv13/qualv13/raw/main/gifs/shiba-dog-jump.gif" width="180px" href="https://youtu.be/gu3KzCWoons?si=p63jyQNZ-tFI5HoH?target="blank"">
       <br><br>
       <em>I love dogs! 🐶</em>
     </td>
