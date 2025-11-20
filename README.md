@@ -9,9 +9,9 @@
     <a href="https://qualv13.itch.io">
       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
     </a>
-    <a href="https://kierzno.tojest.dev">
+    <!-- <a href="https://kierzno.tojest.dev">
       <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
+    </a> -->
   </p>
 </div>
 
@@ -81,9 +81,9 @@
 
 <div align="center">
   <h3>📜 Certifications</h3>
-  <img src="https://img.shields.io/badge/Amazon-Application_Development-FF9900?style=flat-square&logo=amazon" />
-  <img src="https://img.shields.io/badge/Amazon-Data_Structures_&_Algorithms-FF9900?style=flat-square&logo=amazon" />
-  <img src="https://img.shields.io/badge/Amazon-Programming_with_Java-FF9900?style=flat-square&logo=amazon" />
+  <img src="https://img.shields.io/badge/Amazon-Application_Development-0077FF?style=flat-square&logo=amazon" />
+  <img src="https://img.shields.io/badge/Amazon-Data_Structures_&_Algorithms-0077FF?style=flat-square&logo=amazon" />
+  <img src="https://img.shields.io/badge/Amazon-Programming_with_Java-0077FF?style=flat-square&logo=amazon" />
 </div>
 
 <br>
