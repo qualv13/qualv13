@@ -89,7 +89,6 @@
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=qualv13&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qualv13&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
@@ -97,7 +96,7 @@
 <br>
 
 <div align="center">
-  <h3>🚀 Check out my work</h3>
+  <h3>My work</h3>
   <a href="https://github.com/qualv13/ZombieGame"><strong>🧟‍♂️ Zombie Game (Java)</strong></a>
   •
   <a href="https://fit2beat.toadres.pl"><strong>🎵 Playlist Maker (Docker + Python)</strong></a>
