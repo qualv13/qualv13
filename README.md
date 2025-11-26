@@ -9,9 +9,6 @@
     <a href="https://qualv13.itch.io">
       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
     </a>
-    <!-- <a href="https://kierzno.tojest.dev">
-      <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a> -->
   </p>
 </div>
 
