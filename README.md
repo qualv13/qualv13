@@ -99,6 +99,8 @@
 
 <div align="center">
   <h3>My work</h3>
+  <a href="https://github.com/qualv13/CarCharging"><strong>🚗CarCharging App in Spring Boot (Java)⚡</strong></a>
+  •
   <a href="https://github.com/qualv13/ZombieGame"><strong>🧟‍♂️ Zombie Game (Java)</strong></a>
   •
   <a href="https://fit2beat.toadres.pl"><strong>🎵 Playlist Maker (Docker + Python)</strong></a>
