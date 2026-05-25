@@ -12,13 +12,16 @@
 
 ## About me
 
-I'm a **Computer Science and Intelligent Systems** student at [AGH University of Kraków](https://www.agh.edu.pl/en), currently interning as a **Software Developer at IBM** in Kraków. My academic focus includes Neural Networks, Data Engineering, and Agile methodologies. I care about writing clean, testable code and building things that actually work in production.
+I'm a **Computer Science and Intelligent Systems** student (6th semester) at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My true passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
 
-Outside of work, I lead the IT team for [WRSS WEAIiIB](https://wrss.eaiib.agh.edu.pl) (Faculty Student Council), where I maintain infrastructure, build automations, and coordinate events.
+Lately, I've been diving into the world of **Generative AI, Graph Data, and local LLMs**, running models on my home lab setup and experimenting with observability tools like Langfuse. On the academic front, my upcoming engineering thesis focuses on applying deep learning methods to convert 2D images into 3D meshes.
+
+Outside of work and academics, I lead the IT team for the [Faculty Student Council (WRSS WEAIiIB)](https://wrss.eaiib.agh.edu.pl), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
 
 ```text
-Currently working on  →  Automated API test suites (pytest) & CI/CD pipelines @ IBM
-Open to               →  Junior SWE / Data Engineer / AI Engineer / Summer Intern roles
+Currently working on  →  Graph data & LLM integrations @ IBM | Automated test suites (pytest)
+Academic focus        →  Deep Learning for 2D to 3D mesh conversion | Homelab LLM hosting
+Open to               →  Junior SWE / Data Engineer / AI Engineer roles
 Location              →  Kraków, Poland
 ```
 
@@ -63,6 +66,16 @@ Location              →  Kraków, Poland
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+
+**Agents & LLMs**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+
 
 </div>
 
@@ -75,9 +88,10 @@ Location              →  Kraków, Poland
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
 | ⚡ | **[Fit2Beat — Playlist Maker](https://fit2beat.toadres.pl)** | HackYeah 2025 TOP 8 finalist. Generates workout playlists matched to your BPM preferences. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| 🌐 | **[IoTServerApp](https://github.com/qualv13/IoTServerApp)** | Backend application logic designed for robust IoT device management and communication. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> |
 | 🚗 | **[CarCharging App](https://github.com/qualv13/CarCharging)** | Schedules EV charging during peak green energy windows using live grid data. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| 📊 | **Algorithmic Trading Analysis Script** | Python-based script developed strictly for backtesting and analyzing market datasets utilizing MFI, VWAP, and ATR indicators. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
 | 📈 | **[NBP Asset Tracker](https://github.com/qualv13/Flask-Assets_value_database_with_NBP_API)** | Tracks asset values against live exchange rates from the Polish National Bank API. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| 🧟 | **[Zombie Game](https://github.com/qualv13/ZombieGame)** | OOP-based zombie survival game built as a university project. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
 
 </div>
 
@@ -86,32 +100,37 @@ Location              →  Kraków, Poland
 ## Experience
 
 **Software Developer Intern · IBM** *(Feb 2026 – present)*
-- Designed and implemented automated test suites with `pytest`, using advanced fixtures for maintainability
-- Integrated testing into CI/CD pipelines via **Jenkins** and cloud infrastructure
-- Worked in Agile/Scrum: daily stand-ups, cross-functional tech discussions, internal tech talks
+- Designing and implementing automated test suites with `pytest` utilizing advanced fixtures for maximum maintainability.
+- Integrating automated testing into CI/CD pipelines via **Jenkins** and cloud infrastructure to ensure safe deployments.
+- Engaging directly in enterprise engineering culture, integrating **Large Language Models (LLMs)** with **Graph Data** architectures.
+- Participating actively in an Agile/Scrum environment with daily stand-ups and cross-functional technical discussions.
 
-**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(ongoing)*
-- Maintain the council website (Vue.js + TailwindCSS)
-- Built workflow automations using **n8n** and Slack
-- Coordinated **VOLT 2025** — a two-day tech conference with 8 company partners
+**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2024 – present)*
+- Managing and maintaining the council website (Vue.js + TailwindCSS) and custom VPS hosting.
+- Developing backend event management tools and workflow automations using **n8n**, Slack, Google API, and OAuth2.0.
+- Acting as Event Coordinator for the multi-day tech conferences **VOLT 2025** and **VOLT 2026**, successfully securing partnerships with major tech companies.
 
-**Team Mentor · [Zwolnieni z Teorii](https://zwolnienizteorii.pl)** *(2022 – 2025)*
-- Mentored student teams through social impact projects
-- Managed a school/user database and handled communication via Thulium
+**Game Developer · [AGH Code Industry](https://coin.agh.edu.pl/projekty/student-trainer)** *(Dec 2023 – Jun 2024)*
+- Developed interactive game mechanics using **Unity** and **C#**.
+- Contributed to game design, narrative writing, and close cross-team collaboration.
+
+**Team Mentor · [Zwolnieni z Teorii](https://zwolnienizteorii.pl)** *(Sep 2022 – May 2025)*
+- Mentored over 35 student teams through the planning, execution, and presentation of social impact projects.
+- Handled communication via Thulium and managed user databases for Olympiad participants.
 
 ---
 
-## Highlights
+## Highlights & Research
 
 <div align="center">
 
-🏆 **HackYeah 2025** — TOP 8 Finalist, Biohacking track (project: *Fit2Beat*)
+🧠 **Engineering Thesis (Ongoing)** — Applying Deep Learning architectures for converting 2D images into 3D meshes.
 
-⚡ **[VOLT 2025](https://www.facebook.com/events/1272722077174064/)** — Event Coordinator, AGH tech conference
+🏆 **HackYeah 2025** — TOP 8 Finalist in the Biohacking track (Project: *Fit2Beat*).
 
-🚗 **CarCharging App** — EV smart scheduling using real-time green energy data (Spring Boot + Docker)
+⚡ **VOLT 2025 & 2026** — Lead Event Coordinator for the AGH tech conference, hosting panels on the future of AI and tech industry shifts.
 
-📈 **NBP Asset Tracker** — Live exchange rate tracking app via National Bank of Poland API
+🐳 **Homelab Enthusiast** — Operating a local server ecosystem for self-hosting tools, containerized services (Docker), and quantized LLMs.
 
 </div>
 
