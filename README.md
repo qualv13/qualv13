@@ -14,12 +14,18 @@
 
 I'm a **Computer Science and Intelligent Systems** student (6th semester) at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My true passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
 
+To try myself, I decided to create my own app [InstalDesk](instaldesk.pl). My main goal is to help highly skilled plumbers, electricians and technicians create proffesional offers to help them elevate overall UX.
+
 Lately, I've been diving into the world of **Generative AI, Graph Data, and local LLMs**, running models on my home lab setup and experimenting with observability tools like Langfuse. On the academic front, my upcoming engineering thesis focuses on applying deep learning methods to convert 2D images into 3D meshes.
 
 Outside of work and academics, I lead the IT team for the [Faculty Student Council (WRSS WEAIiIB)](https://wrss.eaiib.agh.edu.pl), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
 
 ```text
 Currently working on  →  Graph data & LLM integrations @ IBM | Automated test suites (pytest)
+                      →  My own SaaS for highly skilled plumbers, electricians and technicians
+                         why?
+                         for faster offer creating which looks professional
+                         Check it out! instaldesk.pl
 Academic focus        →  Deep Learning for 2D to 3D mesh conversion | Homelab LLM hosting
 Open to               →  Junior SWE / Data Engineer / AI Engineer roles
 Location              →  Kraków, Poland
@@ -88,6 +94,7 @@ Location              →  Kraków, Poland
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
 | ⚡ | **[Fit2Beat — Playlist Maker](https://fit2beat.toadres.pl)** | HackYeah 2025 TOP 8 finalist. Generates workout playlists matched to your BPM preferences. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| 💼 | **[InstalDesk](https://instaldesk.pl)** | Desktop invoicing app for Polish contractors with KSeF e-invoicing integration and offline-first architecture. | <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Desktop-App-blue?style=for-the-badge" /> |
 | 🌐 | **[IoTServerApp](https://github.com/qualv13/IoTServerApp)** | Backend application logic designed for robust IoT device management and communication. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> |
 | 🚗 | **[CarCharging App](https://github.com/qualv13/CarCharging)** | Schedules EV charging during peak green energy windows using live grid data. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
 | 📊 | **Algorithmic Trading Analysis Script** | Python-based script developed strictly for backtesting and analyzing market datasets utilizing MFI, VWAP, and ATR indicators. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
