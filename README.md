@@ -135,11 +135,11 @@ Location              →  Kraków, Poland
 
 🏆 **HackYeah 2025** - TOP 8 Finalist in the Biohacking track (Project: *Fit2Beat*).
 
-⚡ **VOLT 2025 & 2026** - Lead Event Coordinator for the AGH tech conference, hosting panels on the future of AI and tech industry shifts.
+⭐️ **My own SaaS Engineer [InstalDesk](instaldesk.pl)** - From idea to MVP to fully functional product. I managed to develop it with security first mindset with responsible LLMs usage.
+
+⚡ **VOLT 2025** - Lead Event Coordinator for the AGH tech conference, hosting panels on the future of AI and tech industry shifts.
 
 🐳 **Homelab Enthusiast** - Operating a local server ecosystem for self-hosting tools, containerized services (Docker), and quantized LLMs.
-
-⭐️ **My own SaaS Engineer [InstalDesk](instaldesk.pl)** - From idea to MVP to fully functional product. I managed to develop it with security first mindset with responsible LLMs usage.
 
 </div>
 
