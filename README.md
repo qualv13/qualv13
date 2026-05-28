@@ -93,10 +93,10 @@ Location              →  Kraków, Poland
 
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
-| ⚡ | **[Fit2Beat — Playlist Maker](https://fit2beat.toadres.pl)** | HackYeah 2025 TOP 8 finalist. Generates workout playlists matched to your BPM preferences. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
-| 💼 | **[InstalDesk](https://instaldesk.pl)** | Desktop invoicing app for Polish contractors with KSeF e-invoicing integration and offline-first architecture. | <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Desktop-App-blue?style=for-the-badge" /> |
-| 🌐 | **[IoTServerApp](https://github.com/qualv13/IoTServerApp)** | Backend application logic designed for robust IoT device management and communication. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> |
-| 🚗 | **[CarCharging App](https://github.com/qualv13/CarCharging)** | Schedules EV charging during peak green energy windows using live grid data. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| ⚡ | **[Fit2Beat — Playlist Maker](https://fit2beat.toadres.pl)** | HackYeah 2025 TOP 8 finalist. Generates workout playlists matched to your BPM preferences. It approaches the problem from the other side than other apps. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| 💼 | **[InstalDesk](https://instaldesk.pl)** | Desktop invoicing app for Polish contractors with KSeF e-invoicing integration and offline-first architecture. Integrated also with Stripe, mailing system with codes, reminders when subscription ends etc. | <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Desktop-App-blue?style=for-the-badge" /> |
+| 🌐 | **[IoTServerApp](https://github.com/qualv13/IoTServerApp)** | IoT platform built with Spring Boot 3.3.5 that demonstrates high-level full-stack engineering expertise (as high as best student can). This system manages smart RGB+White LED lamps at scale, featuring real-time MQTT communication, Protocol Buffers serialization, JWT authentication, OTA firmware updates, and intelligent automation capabilities.  | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> |
+| 🚗 | **[CarCharging App](https://github.com/qualv13/CarCharging)** | Schedules EV charging during peak green energy windows using live grid data from UK gov API. Shows forecasted % of green energy in upcoming days. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
 | 📊 | **Algorithmic Trading Analysis Script** | Python-based script developed strictly for backtesting and analyzing market datasets utilizing MFI, VWAP, and ATR indicators. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
 | 📈 | **[NBP Asset Tracker](https://github.com/qualv13/Flask-Assets_value_database_with_NBP_API)** | Tracks asset values against live exchange rates from the Polish National Bank API. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 
@@ -131,13 +131,15 @@ Location              →  Kraków, Poland
 
 <div align="center">
 
-🧠 **Engineering Thesis (Ongoing)** — Applying Deep Learning architectures for converting 2D images into 3D meshes.
+🧠 **Engineering Thesis (Ongoing)** - Applying Deep Learning architectures for converting 2D images into 3D meshes.
 
-🏆 **HackYeah 2025** — TOP 8 Finalist in the Biohacking track (Project: *Fit2Beat*).
+🏆 **HackYeah 2025** - TOP 8 Finalist in the Biohacking track (Project: *Fit2Beat*).
 
-⚡ **VOLT 2025 & 2026** — Lead Event Coordinator for the AGH tech conference, hosting panels on the future of AI and tech industry shifts.
+⚡ **VOLT 2025 & 2026** - Lead Event Coordinator for the AGH tech conference, hosting panels on the future of AI and tech industry shifts.
 
-🐳 **Homelab Enthusiast** — Operating a local server ecosystem for self-hosting tools, containerized services (Docker), and quantized LLMs.
+🐳 **Homelab Enthusiast** - Operating a local server ecosystem for self-hosting tools, containerized services (Docker), and quantized LLMs.
+
+⭐️ **My own SaaS Engineer [InstalDesk](instaldesk.pl)** - From idea to MVP to fully functional product. I managed to develop it with security first mindset with responsible LLMs usage.
 
 </div>
 
@@ -150,6 +152,8 @@ Location              →  Kraków, Poland
 [![Amazon Junior SWE](https://img.shields.io/badge/Amazon-Junior_Software_Developer-0077FF?style=for-the-badge&logo=amazon)](https://www.coursera.org/account/accomplishments/specialization/2WMO8NM17ZSA)
 [![DSA](https://img.shields.io/badge/Amazon-Data_Structures_%26_Algorithms-0077FF?style=for-the-badge&logo=amazon)](https://www.coursera.org/account/accomplishments/verify/IOYGOPZ01DNF)
 [![Java](https://img.shields.io/badge/Amazon-Programming_with_Java-0077FF?style=for-the-badge&logo=amazon)](https://www.coursera.org/account/accomplishments/verify/FYPJ6MVZ8K5Q)
+
+Check all of them on my [LinkedIn](https://www.linkedin.com/in/jakub-kierznowski/)! 
 
 </div>
 
