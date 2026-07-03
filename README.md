@@ -10,7 +10,7 @@
 
 ---
 
-## About me
+## [About me](https://qualv13.github.io/)
 
 I'm a **Computer Science and Intelligent Systems** student (6th semester) at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My true passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
 
