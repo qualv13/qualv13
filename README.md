@@ -22,7 +22,7 @@ Lately, I've been diving into the world of **Generative AI, Graph Data, and loca
 Outside of work and academics, I lead the IT team for the [Faculty Student Council (WRSS WEAIiIB)](https://wrss.eaiib.agh.edu.pl), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
 
 ```text
-Currently working on → Graph data & LLM integrations @ IBM · automated test suites (pytest)
+Currently working on → Data Lineage @ IBM · graph & tree algorithms in Java/Spring (big graph data × LLMs)
                      → InstalDesk — my own SaaS for skilled tradespeople · instaldesk.pl
 Academic focus       → Deep Learning for 2D → 3D mesh conversion · homelab LLM hosting
 Open to              → Junior SWE / Data Engineer / AI Engineer roles
@@ -133,11 +133,11 @@ Location             → Kraków, Poland
 
 ## 💼 Experience
 
-**Software Developer Intern · IBM** *(Feb 2026 – present)*
-- Designing and implementing automated test suites with `pytest`, using advanced fixtures for maximum maintainability.
-- Integrating automated testing into CI/CD pipelines via **Jenkins** and cloud infrastructure to ensure safe deployments.
-- Working directly in an enterprise engineering culture, integrating **Large Language Models (LLMs)** with **Graph Data** architectures.
-- Participating actively in an Agile/Scrum environment with daily stand-ups and cross-functional technical discussions.
+**Software Developer Intern · IBM Software Lab** *(Feb 2026 – present)*
+- Optimizing **Data Lineage** performance with advanced **graph & tree algorithms in Java (Spring)** — working where big graph data meets LLMs.
+- Built automated test suites in **Python / pytest** with advanced fixtures — **+5% coverage** and **−10% pipeline runtime**.
+- Managing CI/CD via **Jenkins** job scheduling on cloud infrastructure.
+- Daily Agile/Scrum with cross-functional teams; enterprise architecture best practices shared via internal tech talks.
 
 **IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2024 – present)*
 - Managing and maintaining the council website (Vue.js + TailwindCSS) and custom VPS hosting.
