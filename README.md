@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Software+Developer+%40+IBM+%7C+CS+%26+Intelligent+Systems+%40+AGH" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Java+Backend+Developer+%40+IBM+%7C+Graph+Data+%26+LLMs" alt="Header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kierznowski/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qualv13.github.io/)
@@ -25,7 +25,7 @@ Outside of work and academics, I lead the IT team for the [Faculty Student Counc
 Currently working on → Data Lineage @ IBM · graph & tree algorithms in Java/Spring (big graph data × LLMs)
                      → InstalDesk — my own SaaS for skilled tradespeople · instaldesk.pl
 Academic focus       → Deep Learning for 2D → 3D mesh conversion · homelab LLM hosting
-Open to              → Junior SWE / Data Engineer / AI Engineer roles
+Open to              → Junior Java Backend / SWE / Data Engineer / AI Engineer roles
 Location             → Kraków, Poland
 ```
 
