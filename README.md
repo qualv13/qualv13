@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-I'm a **Computer Science and Intelligent Systems** student (6th semester) at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
+I'm a final-year **Computer Science and Intelligent Systems** student at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
 
 To try myself, I built my own app [InstalDesk](https://instaldesk.pl) — helping skilled plumbers, electricians and technicians create professional offers faster and elevate their overall UX.
 
@@ -139,10 +139,10 @@ Location             → Kraków, Poland
 - Managing CI/CD via **Jenkins** job scheduling on cloud infrastructure.
 - Daily Agile/Scrum with cross-functional teams; enterprise architecture best practices shared via internal tech talks.
 
-**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2024 – present)*
+**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2025 – present; council member since Mar 2024)*
 - Managing and maintaining the council website (Vue.js + TailwindCSS) and custom VPS hosting.
 - Developing backend event-management tools and workflow automations using **n8n**, Slack, Google API and OAuth 2.0.
-- Acting as Event Coordinator for the multi-day tech conferences **VOLT 2025** and **VOLT 2026**, securing partnerships with major tech companies.
+- Event Coordinator for **VOLT 2025**, a multi-day tech conference with eight partner companies including Aptiv, PwC Polska and Cytiva; part of the organising team for **VOLT 2026**.
 
 **Game Developer · [AGH Code Industry](https://coin.agh.edu.pl/projekty/student-trainer)** *(Dec 2023 – Jun 2024)*
 - Developed interactive game mechanics using **Unity** and **C#**.
