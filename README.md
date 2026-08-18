@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kierznowski/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qualv13.github.io/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://qualv13.itch.io)
+[![Unity Learn](https://img.shields.io/badge/Unity_Learn-000000?style=for-the-badge&logo=unity&logoColor=white)](https://learn.unity.com/u/5e2039f0edbc2a00d6d818e0)
 [![Profile views](https://komarev.com/ghpvc/?username=qualv13&style=for-the-badge&color=2F81F7)](https://github.com/qualv13)
 
 </div>
