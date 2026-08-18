@@ -135,7 +135,7 @@ Location             → Kraków, Poland
 
 **Software Developer Intern · IBM Software Lab** *(Feb 2026 – present)*
 - Optimizing **Data Lineage** performance with advanced **graph & tree algorithms in Java (Spring)** — working where big graph data meets LLMs.
-- Built automated test suites in **Python / pytest** with advanced fixtures — **+5% coverage** and **−10% pipeline runtime**.
+- Built automated test suites in **Python / pytest** with parametrised and session-scoped fixtures, raising coverage and shortening the pipeline run.
 - Managing CI/CD via **Jenkins** job scheduling on cloud infrastructure.
 - Daily Agile/Scrum with cross-functional teams; enterprise architecture best practices shared via internal tech talks.
 
