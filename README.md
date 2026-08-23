@@ -20,7 +20,7 @@ To try myself, I built my own app [InstalDesk](https://instaldesk.pl) — helpin
 
 Lately, I've been diving into the world of **Generative AI, Graph Data, and local LLMs**, running models on my home lab setup and experimenting with observability tools like Langfuse. On the academic front, my upcoming engineering thesis focuses on applying deep learning methods to convert 2D images into 3D meshes.
 
-Outside of work and academics, I lead the IT team for the Faculty Student Council (WRSS WEAIiIB), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
+Outside of work and academics, I lead the IT team for the [Faculty Student Council (WRSS WEAIiIB)](https://wrss.eaiib.agh.edu.pl), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
 
 ```text
 Currently working on → Data Lineage @ IBM · graph & tree algorithms in Java/Spring (big graph data × LLMs)
@@ -139,7 +139,7 @@ Location             → Kraków, Poland
 - Managing CI/CD via **Jenkins** job scheduling on cloud infrastructure.
 - Daily Agile/Scrum with cross-functional teams; enterprise architecture best practices shared via internal tech talks.
 
-**IT Team Lead · WRSS WEAIiIB AGH** *(Mar 2025 – present; council member since Mar 2024)*
+**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2025 – present; council member since Mar 2024)*
 - Managing and maintaining the council website (Vue.js + TailwindCSS) and custom VPS hosting.
 - Developing backend event-management tools and workflow automations using **n8n**, Slack, Google API and OAuth 2.0.
 - Event Coordinator for **VOLT 2025**, a multi-day tech conference with eight partner companies including Aptiv, PwC Polska and Cytiva; part of the organising team for **VOLT 2026**.
