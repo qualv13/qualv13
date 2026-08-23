@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Java+Backend+Developer+%40+IBM+%7C+Graph+Data+%26+LLMs" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Junior+Software+Engineer+%40+IBM+%7C+Backend+%26+Applied+AI" alt="Header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kierznowski/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qualv13.github.io/)
@@ -14,19 +14,19 @@
 
 ## 👋 About me
 
-I'm a final-year **Computer Science and Intelligent Systems** student at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. My passion lies at the intersection of robust Software Engineering, Data Engineering, and Artificial Intelligence. I care deeply about writing clean, testable code and building enterprise-grade pipelines that actually work in production.
+I'm a final-year **Computer Science and Intelligent Systems** student at [AGH University of Kraków](https://www.agh.edu.pl/en), currently working as a **Software Developer Intern at IBM** in Kraków. I build products and the AI inside them: backend services in Java and Spring, and applied AI on top of graph data. I care deeply about writing clean, testable code that actually works in production.
 
 To try myself, I built my own app [InstalDesk](https://instaldesk.pl) — helping skilled plumbers, electricians and technicians create professional offers faster and elevate their overall UX.
 
 Lately, I've been diving into the world of **Generative AI, Graph Data, and local LLMs**, running models on my home lab setup and experimenting with observability tools like Langfuse. On the academic front, my upcoming engineering thesis focuses on applying deep learning methods to convert 2D images into 3D meshes.
 
-Outside of work and academics, I lead the IT team for the [Faculty Student Council (WRSS WEAIiIB)](https://wrss.eaiib.agh.edu.pl), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
+Outside of work and academics, I lead the IT team for the Faculty Student Council (WRSS WEAIiIB), where I maintain our VPS infrastructure, build workflow automations, and help coordinate major events like the VOLT conference.
 
 ```text
 Currently working on → Data Lineage @ IBM · graph & tree algorithms in Java/Spring (big graph data × LLMs)
                      → InstalDesk — my own SaaS for skilled tradespeople · instaldesk.pl
 Academic focus       → Deep Learning for 2D → 3D mesh conversion · homelab LLM hosting
-Open to              → Junior Java Backend / SWE / Data Engineer / AI Engineer roles
+Open to              → Junior Software Engineer · backend & GenAI Engineer roles
 Location             → Kraków, Poland
 ```
 
@@ -126,7 +126,6 @@ Location             → Kraków, Poland
 | 🌐 | **[IoTServerApp](https://github.com/qualv13/IoTServerApp)** | Spring Boot IoT platform managing smart RGB+White LED lamps at scale: real-time MQTT, Protocol Buffers serialization, JWT auth, OTA firmware updates and automation. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> |
 | 🚗 | **[CarCharging](https://github.com/qualv13/CarCharging)** | Schedules EV charging during the greenest grid windows using live UK-gov carbon data, with a forecast of green-energy % for the days ahead. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
 | ⚡ | **[Fit2Beat](https://fit2beat.toadres.pl)** | Generates workout playlists matched to your target BPM — approaching the problem from the opposite side to existing apps. **🏆 HackYeah 2025 · TOP 8 finalist.** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
-| 📈 | **[NBP Asset Tracker](https://github.com/qualv13/Flask-Assets_value_database_with_NBP_API)** | Tracks asset values against live exchange rates from the Polish National Bank (NBP) API. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
 
 </div>
 
@@ -136,11 +135,11 @@ Location             → Kraków, Poland
 
 **Software Developer Intern · IBM Software Lab** *(Feb 2026 – present)*
 - Optimizing **Data Lineage** performance with advanced **graph & tree algorithms in Java (Spring)** — working where big graph data meets LLMs.
-- Built automated test suites in **Python / pytest** with parametrised and session-scoped fixtures, raising coverage and shortening the pipeline run.
+- Cut the pipeline test run **from 20 minutes to 4** by making the pytest suite asynchronous — parametrised cases, session-scoped fixtures.
 - Managing CI/CD via **Jenkins** job scheduling on cloud infrastructure.
 - Daily Agile/Scrum with cross-functional teams; enterprise architecture best practices shared via internal tech talks.
 
-**IT Team Lead · [WRSS WEAIiIB AGH](https://wrss.eaiib.agh.edu.pl)** *(Mar 2025 – present; council member since Mar 2024)*
+**IT Team Lead · WRSS WEAIiIB AGH** *(Mar 2025 – present; council member since Mar 2024)*
 - Managing and maintaining the council website (Vue.js + TailwindCSS) and custom VPS hosting.
 - Developing backend event-management tools and workflow automations using **n8n**, Slack, Google API and OAuth 2.0.
 - Event Coordinator for **VOLT 2025**, a multi-day tech conference with eight partner companies including Aptiv, PwC Polska and Cytiva; part of the organising team for **VOLT 2026**.
@@ -160,6 +159,8 @@ Location             → Kraków, Poland
 <div align="center">
 
 🧠 **Engineering Thesis (ongoing)** — applying Deep Learning architectures to convert 2D images into 3D meshes.
+
+📄 **Multi-agent RL for power-grid negotiation** (AGH, paper in preparation) — PPO agents trained in PyTorch, served back into a Unity simulation through ONNX.
 
 🏆 **Neo4j Aura Agent Hackathon 2026** — TOP 6 with *DrugPath*, an AI agent over a biomedical knowledge graph.
 
