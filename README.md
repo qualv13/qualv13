@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Junior+Software+Engineer+%40+IBM+%7C+Backend+%26+Applied+AI" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=300&color=2F81F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Jakub+Kierznowski+%F0%9F%91%8B;Software+Engineer+Intern+%40+IBM+%7C+Backend+%26+Applied+AI" alt="Header" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kierznowski/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qualv13.github.io/)
